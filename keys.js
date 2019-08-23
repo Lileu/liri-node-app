@@ -1,14 +1,14 @@
-console.log("this is loaded");
+console.log("processing...");
+
+exports.bandsInTown = {
+  id: process.env.BANDS_IN_TOWN_ID
+};
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,
   secret: process.env.SPOTIFY_SECRET
 };
 
-
-
-
-exports.spotify = {
-    id: process.env.SPOTIFY_ID,
-  };
-  
+exports.omdb = {
+  id: process.env.OMDB_ID
+};
