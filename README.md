@@ -10,7 +10,6 @@ How Liri-bot can help make your life easier:
 3.	Provides song information 
 4.	Can action any of the above commands from a text file (not requiring user input)
 
-High-level overview of the application architecture
 ![Liri-bot application overview](/liri-bot-diagram.png)		
 
 ## Instructions:
