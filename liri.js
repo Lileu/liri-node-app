@@ -16,14 +16,14 @@ var parameter = process.argv.splice(3).join(" ");
 switch (instruction) {
   case "concert-this":
     if (parameter === "") {
-      console.log("Please enter a band you wanna see!");
+      console.log("Please enter a band you want to see!");
     } else {
       concert(parameter);
     }
     break;
   case "spotify-this-song":
     if (parameter === "") {
-      spotifyThis("The Sign");
+      spotifyThis("The Sign Ace of Base");
       //q=name:abacab&type=album,track
     } else {
       spotifyThis(parameter);
@@ -36,6 +36,11 @@ switch (instruction) {
       movieThis(parameter);
     }
     break;
+    case "do-what-it-says":
+      if (parameter === "") {
+        doWhatItSays(parameter);
+      }
+      break;
   default:
     console.log(
       "Invalid command. You can use any of the following commands: concert-this spotify-this-song movie-this or do-what-it-says"
@@ -58,7 +63,7 @@ function concert(parameter) {
         console.log(
           "It doesn't look like " +
             parameter +
-            "is playing near you. Try another band!"
+            " is playing near you. Try another band!"
         );
       } else {
         console.log("UPCOMING GIGS FOR " + parameter);
@@ -133,7 +138,7 @@ function movieThis(parameter) {
 }
 
 // 4. node liri.js do-what-it-says
-function doThing() {
+function doWhatItSays() {
   fs.readFile("random.txt", "utf-8", function(err, data) {
     if (err) {
       return console.log(error);
