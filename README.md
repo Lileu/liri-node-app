@@ -12,37 +12,42 @@ How Liri-bot can help make your life easier:
 
 ![Liri-bot application overview](/liri-bot-diagram.png)		
 
-## Instructions:
+## Instructions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLcpM_KJ4Iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. To run _Concert-this_ 
 Type the below command in the terminal:
-`node liri.js concert-this <artist/band name here>`
+```node liri.js concert-this <artist/band name here>```
 Press enter.
 
 2. To run _spotify-this-song_ 
-Type the below command in the terminal:
-`node liri.js spotify-this-song '<song name here>'`
+Type the below com```and in the terminal:
+```node liri.js spotify-this-song '<song name here>```
 Press enter.
 
 3. To run _movie-this_ 
 Type the below command in the terminal:
-`node liri.js movie-this '<movie name here>'`
+```node liri.js movie-this '<movie name here>```
 Press enter.
 
 4. To run _do-what-it-says_ 
 Type the below command in the terminal:
-`node liri.js do-what-it-says`
+```node liri.js do-what-it-says```
 Press enter.
 
+## Demo
+
+
 ## Technologies used
-Node.js
-Node Spotify API - A simple to use API library for the Spotify REST API.
-Axios - Promise based HTTP client for the browser and node.js
-Moment - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-Dotenv - a zero-dependency module that loads environment variables from a .env file into process.env.
-fs - node.js file system module
-Spotify API
-Bands in Town API
-OMDB API
-Javascript
+* Node.js
+* Node Spotify API - A simple to use API library for the Spotify REST API.
+* Axios - Promise based HTTP client for the browser and node.js
+* Moment - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+* Dotenv - a zero-dependency module that loads environment variables from a .env file into process.env.
+* fs - node.js file system module
+* Spotify API
+* Bands in Town API
+* OMDB API
+* Javascript
 
 
