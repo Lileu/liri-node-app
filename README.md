@@ -1,5 +1,6 @@
 # liri-node-app
 Week 10 homework assignment
+
 https://github.com/Lileu/liri-node-app
 
 ## Overview
@@ -34,7 +35,7 @@ Type the below command in the terminal:
 Press enter.
 
 ## Demo
-[![Liri-bot demo image](demo.png)](https://youtu.be/BLcpM_KJ4Iw "Liri-bot node dempo")
+[![Liri-bot demo image](/demo.png)](https://youtu.be/BLcpM_KJ4Iw "Liri-bot node demo")
 
 ## Technologies used
 * Node.js
