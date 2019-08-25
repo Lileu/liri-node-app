@@ -20,13 +20,13 @@ Type the below command in the terminal:
 Press enter.
 
 2. To run _spotify-this-song_ 
-Type the below com```and in the terminal:
-```node liri.js spotify-this-song '<song name here>```
+Type the below command in the terminal:
+```node liri.js spotify-this-song <song name here>```
 Press enter.
 
 3. To run _movie-this_ 
 Type the below command in the terminal:
-```node liri.js movie-this '<movie name here>```
+```node liri.js movie-this <movie name here>```
 Press enter.
 
 4. To run _do-what-it-says_ 
