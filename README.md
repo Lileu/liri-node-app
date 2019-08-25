@@ -36,6 +36,9 @@ Press enter.
 
 ## Demo
 [![Liri-bot demo image](/demo.png)](https://youtu.be/BLcpM_KJ4Iw "Liri-bot node demo")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BLcpM_KJ4Iw
+" target="_blank"><img src="/demo.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Technologies used
 * Node.js
