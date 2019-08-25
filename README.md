@@ -34,11 +34,9 @@ Type the below command in the terminal:
 ```node liri.js do-what-it-says```
 Press enter.
 
-## Demo
+## Demo (click to view on YouTube)
 [![Liri-bot demo image](https://img.youtube.com/vi/BLcpM_KJ4Iw/maxresdefault.jpg)](https://youtu.be/BLcpM_KJ4Iw "Liri-bot node demo")
 <a href="http://www.youtube.com/https://img.youtube.com/vi/BLcpM_KJ4Iw/maxresdefault.jpg?feature=player_embedded&v=BLcpM_KJ4Iw
-" target="_blank"><img src="https://img.youtube.com/vi/BLcpM_KJ4Iw/maxresdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Technologies used
 * Node.js
