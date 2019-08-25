@@ -13,8 +13,6 @@ How Liri-bot can help make your life easier:
 ![Liri-bot application overview](/liri-bot-diagram.png)		
 
 ## Instructions
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BLcpM_KJ4Iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 1. To run _Concert-this_ 
 Type the below command in the terminal:
 ```node liri.js concert-this <artist/band name here>```
@@ -36,7 +34,7 @@ Type the below command in the terminal:
 Press enter.
 
 ## Demo
-
+[![Liri-bot demo image](demo.png)](https://youtu.be/BLcpM_KJ4Iw "Liri-bot node dempo")
 
 ## Technologies used
 * Node.js
